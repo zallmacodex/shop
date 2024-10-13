@@ -1,5 +1,29 @@
 {
     "products": [
+        {
+            "name": "JASA PEMBUATAN SC BOT TELEGRAM",
+            "price": 30000,
+            "description": "PROSES PERKIRAAN 1-3 HARI",
+            "image": "jasa.jpg"
+        },
+        {
+            "name": "JASA BUG WHATSAPP",
+            "price": 5000,
+            "description": "DURASI PENGIRIMAN BUG SELAMA 15 MENIT AGAR KORBAN BENAR BENAR C1",
+            "image": "jasa.jpg"
+        },
+        {
+            "name": "JASA AKTIFKAN ANTK DDOS PADA WEBSITE",
+            "price": 10000,
+            "description": "AGAR TIDAK MUDAH DOWN SAAT DI DDOS",
+            "image": "jasa.jpg"
+        },
+        {
+            "name": "JASA INSTALL PANEL PTERODACTLY",
+            "price": 5000,
+            "description": "PROSES PERKIRAAN 1-15 MENIT",
+            "image": "jasa.jpg"
+        },
               {
             "name": "PANEL BOT WA 10GB",
             "price": 9000,
