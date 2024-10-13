@@ -1,0 +1,46 @@
+{
+    "products": [
+              {
+            "name": "PANEL BOT WA 10GB",
+            "price": 9000,
+            "description": "PANEL BOT 10GB",
+            "image": "panelwa.jpg"
+        },
+              {
+            "name": "PANEL BOT WA 9GB",
+            "price": 8000,
+            "description": "PANEL BOT 9GB",
+            "image": "panelwa.jpg"
+        },
+              {
+            "name": "PANEL BOT WA 8GB",
+            "price": 7000,
+            "description": "PANEL BOT 8GB",
+            "image": "panelwa.jpg"
+        },
+              {
+            "name": "PANEL BOT WA 7GB",
+            "price": 5000,
+            "description": "PANEL BOT 7GB",
+            "image": "panelwa.jpg"
+        },
+        {
+            "name": "PANEL BOT WA 4GB",
+            "price": 3000,
+            "description": "PANEL BOT 4GB",
+            "image": "panelwa.jpg"
+        },
+        {
+            "name": "PANEL BOT WA 2GB",
+            "price": 2000,
+            "description": "PANEL BOT 2GB",
+            "image": "panelwa.jpg"
+        },
+        {
+            "name": "PANEL BOT WA 1GB",
+            "price": 1000,
+            "description": "PANEL BOT 1GB",
+            "image": "panelwa.jpg"
+        }
+    ]
+}
